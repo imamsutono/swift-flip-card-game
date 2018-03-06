@@ -32,7 +32,6 @@
                                                     <constraint firstAttribute="width" secondItem="iBc-a8-CG3" secondAttribute="height" multiplier="3:4" id="kLD-2t-ItD"/>
                                                 </constraints>
                                                 <directionalEdgeInsets key="directionalLayoutMargins" top="8" leading="8" bottom="8" trailing="8"/>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8zW-eB-ufu"/>
                                                 </connections>
@@ -43,7 +42,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="xis-HG-Hul" secondAttribute="height" multiplier="3:4" id="Xjl-6d-ydv"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5V5-zU-4sU"/>
                                                 </connections>
@@ -54,7 +52,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="gtX-L1-ndz" secondAttribute="height" multiplier="3:4" id="rhj-t2-9HL"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="96Q-hW-q4o"/>
                                                 </connections>
@@ -65,7 +62,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="ZTR-B0-okY" secondAttribute="height" multiplier="3:4" id="Fjw-2v-w9u"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wQu-94-qp7"/>
                                                 </connections>
@@ -82,7 +78,6 @@
                                                     <constraint firstAttribute="width" secondItem="rrK-gM-Uja" secondAttribute="height" multiplier="3:4" id="5Sa-BI-CQl"/>
                                                 </constraints>
                                                 <directionalEdgeInsets key="directionalLayoutMargins" top="8" leading="8" bottom="8" trailing="8"/>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZFK-Mh-v8E"/>
                                                 </connections>
@@ -93,7 +88,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="rxu-Ja-fui" secondAttribute="height" multiplier="3:4" id="wSQ-lz-L82"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jJn-4A-HX7"/>
                                                 </connections>
@@ -104,7 +98,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="W7K-pi-Auv" secondAttribute="height" multiplier="3:4" id="4J0-yh-Isr"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XFb-FU-Fgk"/>
                                                 </connections>
@@ -115,7 +108,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="m4n-BC-d2E" secondAttribute="height" multiplier="3:4" id="BOk-IZ-a7s"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0cI-k1-QnA"/>
                                                 </connections>
@@ -132,7 +124,6 @@
                                                     <constraint firstAttribute="width" secondItem="gUH-dT-6mo" secondAttribute="height" multiplier="3:4" id="Lns-fB-M7U"/>
                                                 </constraints>
                                                 <directionalEdgeInsets key="directionalLayoutMargins" top="8" leading="8" bottom="8" trailing="8"/>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yjx-Fm-Hnf"/>
                                                 </connections>
@@ -143,7 +134,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="I3I-EB-aaJ" secondAttribute="height" multiplier="3:4" id="ndM-Sd-TiX"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="N9d-6y-0Fc"/>
                                                 </connections>
@@ -154,7 +144,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="jYY-nM-Nfu" secondAttribute="height" multiplier="3:4" id="DHf-ER-QRr"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YqS-YK-ewr"/>
                                                 </connections>
@@ -165,7 +154,6 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="XyL-9V-G8s" secondAttribute="height" multiplier="3:4" id="JcA-zh-MH0"/>
                                                 </constraints>
-                                                <state key="normal" title="Button"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="15h-Sf-Y1K"/>
                                                 </connections>
